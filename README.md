@@ -1,4 +1,4 @@
-# Building a menu app with React
+# Building a slider page with React
 ![screenshot](./src/screenshot.jpg)
 
 
@@ -26,7 +26,7 @@
 
 ## Description 
 
-This is a simple app that uses the React useState hook to get data from an API and display jobs and tasks for each job.
+This is a simple app that uses the React useState hook to get data from an API and display a slider with reviewers.
 
 
 ## Developed by
